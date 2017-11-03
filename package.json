@@ -1,0 +1,23 @@
+{
+  "name": "quotes-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajax-request": "^1.2.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.1",
+    "locus": "^2.0.1",
+    "mongoose": "^4.12.1",
+    "morgan": "^1.9.0",
+    "node-fetch": "^1.7.3",
+    "request-promise": "^4.2.2"
+  }
+}
